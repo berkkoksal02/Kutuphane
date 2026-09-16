@@ -6,11 +6,11 @@ Kullanım Amacı
 
 Bu yazılım özellikle:
 
-Okullar
-Eğitim kurumları
-Öğretmenler
-Öğrenciler
-Eğitim amacıyla faaliyet gösteren kütüphaneler
+ -Okullar
+ -Eğitim kurumları
+ -Öğretmenler
+ -Öğrenciler
+ -Eğitim amacıyla faaliyet gösteren kütüphaneler
 
 tarafından ücretsiz olarak kullanılabilmesi amacıyla geliştirilmiştir.
 
