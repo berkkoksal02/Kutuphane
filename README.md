@@ -7,10 +7,11 @@ Kullanım Amacı
 Bu yazılım özellikle:
 
  -Okullar
- -Eğitim kurumları
- -Öğretmenler
- -Öğrenciler
- -Eğitim amacıyla faaliyet gösteren kütüphaneler
+ -Eğitim Kurumları
+ Öğretmenler
+ Öğrenciler
+ Eğitim amacıyla faliyet gösteren kütüphaneler
+
 
 tarafından ücretsiz olarak kullanılabilmesi amacıyla geliştirilmiştir.
 
