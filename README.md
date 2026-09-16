@@ -6,19 +6,18 @@ Kullanım Amacı
 
 Bu yazılım özellikle:
 
- -Okullar
- -Eğitim Kurumları
- Öğretmenler
- Öğrenciler
- Eğitim amacıyla faliyet gösteren kütüphaneler
-
+  Okullar
+  Eğitim Kurumları
+  Öğretmenler
+  Öğrenciler
+  Eğitim amacıyla faliyet gösteren kütüphaneler
 
 tarafından ücretsiz olarak kullanılabilmesi amacıyla geliştirilmiştir.
 
 Yazılımın eğitim amacıyla kullanılması için herhangi bir ücret talep edilmez.
 
 Özellikler
-Kitap kayıt ve yönetimi
+Kitap kayıt ve yönetimi        
 Üye kayıt ve yönetimi
 Kitap ödünç verme
 Kitap iade işlemleri
